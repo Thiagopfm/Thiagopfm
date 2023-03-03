@@ -5,4 +5,4 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-4887B7?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Th_pmf/?hl=pt-br)
 
-![Thiago reitas GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagopfmi&show_icons=true&theme=dracula
+![Thiago reitas GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagopfmi&show_icons=true&theme=dracula)
